@@ -2,7 +2,7 @@
 
 ### Welcome! I'm a IOS Developer.
 
-<img src="https://c4.wallpaperflare.com/wallpaper/163/392/912/map-wold-map-technology-world-wallpaper-preview.jpg" alt="banner that says Kelechi Precious Nwachukwu - code newbie always. content curator. contributing for good alongside an oil paint illustration of Kelechi"> 
+<img src="https://c4.wallpaperflare.com/wallpaper/423/753/73/world-map-time-zones-wallpaper-preview.jpg" alt="banner"> 
 
 I'm Timofey, a IOS Developer with a love for everything related to technology. After 3 years of development on .NET, I switched to IOS development. One year of experience in commercial development in a company and as a freelancer. You have the necessary equipment: Mac and iPhone. Here you will find my educational projects and pet projects.
 
