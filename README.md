@@ -18,4 +18,4 @@ I'm Timofey, a IOS Developer with a love for everything related to technology. A
 
 ## More About Me
 
-I don’t stop there, I’m always learning and developing. I keep up with technology updates and read Paul Hudson. I am actively studying English.
+I don’t stop there, I’m always learning and developing. I keep up with technology updates and read Paul Hudson. I am actively studying English language.
