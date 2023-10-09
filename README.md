@@ -1,6 +1,6 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-### Welcome! I'm a IOS Developer.
+### Welcome! I'm an IOS Developer.
 
 <img src="https://github.com/hammersoul/hammersoul/raw/main/banner.png" alt="banner"> 
 
