@@ -8,13 +8,18 @@ I'm Timofey, a IOS Developer with a love for everything related to technology. A
 
 ## My Technology Stack
 
-- Swift 5
-- UIKit, SwiftUI
+- UIKit. Auto Layout
 - Git, CocoaPods
 - GCD, Networking
-- MVVM, SOLID
-- CoreData
-- TDD, Unit Testing
+- ООП, SOLID
+
+## Familiar with technology
+
+- SwiftUI
+- Testing
+- Realm, Firebase, CoreData
+- Design Patterns
+- MVC, MVVM
 
 ## More About Me
 
