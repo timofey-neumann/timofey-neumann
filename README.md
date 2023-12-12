@@ -4,7 +4,9 @@
 
 <img src="https://github.com/hammersoul/hammersoul/raw/main/banner.png" alt="banner"> 
 
-I'm Timofey, a IOS Developer with a love for everything related to technology. After 3 years of development on .NET, I switched to IOS development. One year of experience in commercial development in a company and as a freelancer. You have the necessary equipment: Mac and iPhone. Here you will find my educational projects and pet projects.
+I'm Timofey, a IOS Developer with a love for everything related to technology.After two years of development on .NET, I switched to the mobile version. 2 years of experience in commercial development for IOS in the company. You have the necessary equipment: Mac and iPhone. I have attached a link to GitHub, where my own and technological projects are available.
+
+I don’t stop there, I’m always learning and developing. I keep up with technology updates and read Paul Hudson. I am actively studying English. Looking for new opportunities for growth and development as an iOS developer. I am ready to make my contribution to improving the product and achieving the business goals of your company.
 
 ## My Technology Stack
 
@@ -12,6 +14,7 @@ I'm Timofey, a IOS Developer with a love for everything related to technology. A
 - Git, CocoaPods
 - GCD, Networking
 - ООП, SOLID
+- MVC, MVVM
 
 ## Familiar with technology
 
@@ -19,8 +22,4 @@ I'm Timofey, a IOS Developer with a love for everything related to technology. A
 - Testing
 - Realm, Firebase, CoreData
 - Design Patterns
-- MVC, MVVM
-
-## More About Me
-
-I don’t stop there, I’m always learning and developing. I keep up with technology updates and read Paul Hudson. I am actively studying English language.
+- Realm, Firebase, CoreData, SQLite, MS SQL
