@@ -6,7 +6,7 @@
 
 I'm Timofey, a IOS Developer with a love for everything related to technology.After two years of development on .NET, I switched to the mobile version. 2 years of experience in commercial development for IOS in the company. You have the necessary equipment: Mac and iPhone.
 
-I don’t stop there, I’m always learning and developing. I keep up with technology updates and read Paul Hudson. Looking for new opportunities for growth and development as an iOS developer. I am ready to make my contribution to improving the product and achieving the business goals of your company.
+I don’t stop there, I’m always learning and developing. I keep up with technology updates. Looking for new opportunities for growth and development as an iOS developer. I am ready to make my contribution to improving the product and achieving the business goals of your company.
 
 ## My Technology Stack
 
