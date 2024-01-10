@@ -10,7 +10,7 @@ I don’t stop there, I’m always learning and developing. I keep up with techn
 
 ## My Technology Stack
 
-- UIKit. Auto Layout
+- UIKit, SwiftUI
 - Git, CocoaPods
 - GCD, Networking
 - ООП, SOLID
@@ -18,8 +18,7 @@ I don’t stop there, I’m always learning and developing. I keep up with techn
 
 ## Familiar with technology
 
-- SwiftUI
+- Combine
 - Testing
-- Realm, Firebase, CoreData
 - Design Patterns
 - Realm, Firebase, CoreData, SQLite, MS SQL
