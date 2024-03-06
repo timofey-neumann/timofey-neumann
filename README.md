@@ -18,6 +18,6 @@ I don’t stop there, I’m always learning and developing. I keep up with techn
 
 ## You can contact me
 
-Telegram: https://t.me/hammersoul <br>
-Email: myservices.hammer@gmail.com <br>
-Instagram: https://www.instagram.com/_hammersoul
+Telegram: https://t.me/timofey_hammer <br>
+Email: timofey.hammer@gmail.com <br>
+Instagram: https://www.instagram.com/hammerdaily
