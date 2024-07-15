@@ -2,8 +2,6 @@
 
 ### Welcome! I'm an Developer.
 
-<img src="https://github.com/hammersoul/hammersoul/raw/main/banner.png" alt="banner"> 
-
 ## You can contact me
 
 Telegram: https://t.me/timofey_hammer <br>
