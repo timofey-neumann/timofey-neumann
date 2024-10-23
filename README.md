@@ -4,6 +4,5 @@
 
 ## You can contact me
 
-Telegram: https://t.me/timofey_hammer <br>
 Email: timofey.hammer@gmail.com <br>
-Instagram: https://www.instagram.com/hammerdaily
+Telegram: https://t.me/timofey_hammer <br>
