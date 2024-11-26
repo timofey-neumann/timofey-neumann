@@ -4,7 +4,7 @@
 
 .NET developer with more than 5 years of experience. I specialize in backend development using technology.NET and ASP.NET. <br><br>
 
-The services I offer:
+The services I offer: <br>
 • Parsers: creating tools for collecting and processing data from websites <br>
 • API Development: Designing and creating a RESTful API for your applications <br>
 • Telegram bots: development of functional and user-friendly bots for task automation <br>
