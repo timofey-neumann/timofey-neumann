@@ -10,7 +10,7 @@ The services I offer: <br>
 • Telegram bots: development of functional and user-friendly bots for task automation <br>
 • Console applications: efficient and productive solutions for automation and data processing <br><br>
 
-Technology stack:
+Technology stack: <br>
 • Language and platforms: .NET, C#, ASP.NET <br>
 • Databases: SQL, PostgreSQL <br>
 • ORM: Entity Framework <br>
