@@ -5,16 +5,16 @@
 Developer with over 3 years of commercial experience. I specialize in backend development using the .NET technology stack. <br>
 
 <b>The services I offer:</b> <br>
-• WEB API Development – Creating scalable and secure RESTful APIs for application integration. <br>
-• Telegram Bots – Developing functional and automated bots for task execution and various other purposes. <br>
-• Console Applications – Building efficient and high-performance solutions for automation and data processing. <br>
-• Parsers – Developing tools for automatic data collection, analysis, and processing from websites, online stores, files, and applications. <br>
+• WEB API Development: creating scalable and secure RESTful APIs for application integration. <br>
+• Telegram Bots: developing functional and automated bots for task execution and various other purposes. <br>
+• Console Applications: building efficient and high-performance solutions for automation and data processing. <br>
+• Parsers: developing tools for automatic data collection, analysis, and processing from websites, online stores, files, and applications. <br>
 
 <b>Technology stack:</b> <br>
 • Language and platforms: .NET, C#, ASP.NET <br>
-• Messengers and queues: RabbitMQ
+• Messengers and queues: RabbitMQ <br>
 • Databases: SQL, PostgreSQL, Entity Framework <br>
-• Containerization and orchestration: Docker, Kubernetes <br>
+• Containerization and orchestration: Docker, Kubernetes
 
 ## You can contact me
 
