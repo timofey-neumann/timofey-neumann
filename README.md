@@ -2,20 +2,19 @@
 
 ### Welcome! I'm an .NET Backend Developer.
 
-.NET developer with more than 5 years of experience. I specialize in backend development using technology.NET and ASP.NET. <br>
+Developer with over 3 years of commercial experience. I specialize in backend development using the .NET technology stack. <br>
 
 The services I offer: <br>
-• Parsers: creating tools for collecting and processing data from websites <br>
-• API Development: Designing and creating a RESTful API for your applications <br>
-• Telegram bots: development of functional and user-friendly bots for task automation <br>
-• Console applications: efficient and productive solutions for automation and data processing <br>
+• WEB API Development – Creating scalable and secure RESTful APIs for application integration. <br>
+• Telegram Bots – Developing functional and automated bots for task execution and various other purposes. <br>
+• Console Applications – Building efficient and high-performance solutions for automation and data processing. <br>
+• Parsers – Developing tools for automatic data collection, analysis, and processing from websites, online stores, files, and applications. <br>
 
 Technology stack: <br>
 • Language and platforms: .NET, C#, ASP.NET <br>
-• Databases: SQL, PostgreSQL <br>
-• ORM: Entity Framework <br>
-• Containerization and orchestration: Docker, Kubernetes <br>
 • Messengers and queues: RabbitMQ
+• Databases: SQL, PostgreSQL, Entity Framework <br>
+• Containerization and orchestration: Docker, Kubernetes <br>
 
 ## You can contact me
 
