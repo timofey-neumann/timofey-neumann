@@ -19,5 +19,5 @@ Developer with over 3 years of commercial experience. I specialize in backend de
 ## You can contact me
 
 Email: timofey.neumann@gmail.com <br>
-WhatsApp: https://wa.me/+79771010035 <br>
-Telegram: https://t.me/timofey_neumann 
+Telegram: https://t.me/timofey_neumann <br>
+WhatsApp: https://wa.me/+79771010035
